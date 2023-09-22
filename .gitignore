@@ -1,0 +1,4 @@
+.vscode/
+confluence_data/
+vector_stores/
+.env
